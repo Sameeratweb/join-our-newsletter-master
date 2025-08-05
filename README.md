@@ -96,3 +96,4 @@ We value feedback and are always looking to improve our challenges and platform.
 This challenge is completely free. Please share it with anyone who would find it useful for practice.
 
 **Enjoy building!** 🚀
+"# Join-our-newsletter-challenge" 
