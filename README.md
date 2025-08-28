@@ -97,3 +97,4 @@ This challenge is completely free. Please share it with anyone who would find it
 
 **Enjoy building!** 🚀
 "# Join-our-newsletter-challenge" 
+"# join-our-newsletter-master" 
